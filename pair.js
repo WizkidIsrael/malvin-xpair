@@ -57,18 +57,18 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Malvin_Tech.sendMessage(Pair_Code_By_Malvin_Tech.user.id, { text: 'Malvin~' + b64data });
 
                let MALVIN_XD_TEXT = `
-      MALVIN-XD V4 Sucess Scan Session 
+      DEV IMOLE V4 Sucess Scan Session 
 
 > Bot repo: Https://GitHub.com/XdKing2/MALVIN-XD 
 
-> Owner: *Malvin King*
+> Owner: *DEV IMOLE*
 
-> BotName: *MALVIN XD* 
+> BotName: *DEV IMOLE* 
 
 
 
 *Follow support for updates*
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+https://chat.whatsapp.com/CcC79K30GSJ8hdOqBThrXC?mode=ac_c
 
 
 > _Regards Malvin King_`
